@@ -74,10 +74,10 @@ Steps:
 - GPL v2
 
 ## Key Learnings
-- Understanding of open source philosophy and licenses
-- Practical Linux system administration commands
-- Shell scripting for system automation
-- Git's origin and impact on software development
+- Understanding of open source philosophy and licenses.
+- Practical Linux system administration commands.
+- Shell scripting for system automation.
+- Git's origin and impact on software development.
 
 ## References
 - GNU Project: gnu.org/philosophy/free-sw.html
